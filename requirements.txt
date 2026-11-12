@@ -1,0 +1,8 @@
+streamlit>=1.50
+simpy
+numpy
+pandas
+plotly
+gspread>=6.0
+google-auth
+openai>=1.0
